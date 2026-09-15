@@ -1,7 +1,11 @@
 # 🚀 Shravan Manikandan
 
 <div align="center">
-  
+
+<img src="./assets/binary-me.png" width="350" alt="Shravan - Binary Portrait">
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Technologist;Building+Amazing+Software)](https://git.io/typing-svg)
 
 </div>
