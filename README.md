@@ -2,12 +2,12 @@
 
 # 🚀 SHRAVAN MANIKANDAN ARANGAT
 
-                      ```
-                      ╔════════════════════════════════════════════════════════════════╗
-                      ║                  CREATIVE TECHNOLOGIST                         ║
-                      ║                  BUILDING THE FUTURE                           ║
-                      ╚════════════════════════════════════════════════════════════════╝
-                      ```
+                           ```
+                           ╔════════════════════════════════════════════════════════════════╗
+                           ║                  CREATIVE TECHNOLOGIST                         ║
+                           ║                  BUILDING THE FUTURE                           ║
+                           ╚════════════════════════════════════════════════════════════════╝
+                           ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Creative+Coder;AI+Enthusiast;Visual+Artist;Always+Learning;Code+%2B+Art+%3D+Magic)](https://git.io/typing-svg)
 
