@@ -1,22 +1,25 @@
-# Hi there 👋
+# 🚀 Shravan Manikandan
 
-**Brief intro about yourself**
-- What you do
-- Current role/focus
-- Interests
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Technologist;Building+Amazing+Software)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate developer who loves creating innovative solutions and building beautiful, functional software. I enjoy exploring new technologies, experimenting with creative coding projects, and contributing to open-source communities.
+
+- 🔭 Currently exploring **AI, Web Technologies & Creative Coding**
+- 💻 Skilled in **Python, JavaScript, Full-Stack Development**
+- 🎨 Creating unique visual effects and interactive experiences
+- 🌱 Always learning and pushing creative boundaries
+- 📫 Reach out: [LinkedIn](#) | [Email](#) | [Portfolio](#)
+
+---
 
 ## 🛠️ Tech Stack
-- Languages & frameworks you use
-- Tools & technologies
 
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravanmanikandan55)](https://github.com/shravanmanikandan55)
-
-## 🔗 Connect With Me
-- [LinkedIn](link)
-- [Twitter](link)
-- [Website](link)
-
-## 📌 Featured Projects
-- Project 1 description
-- Project 2 description
+**Languages & Frameworks**
