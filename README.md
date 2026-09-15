@@ -1,30 +1,33 @@
-
-# 🚀 Shravan Manikandan
-
-<div align="center">
-
-<img src="./assets/binary-me.png" width="350" alt="Shravan - Binary Portrait">
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Technologist;Building+Amazing+Software)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate developer who loves creating innovative solutions and building beautiful, functional software. I enjoy exploring new technologies, experimenting with creative coding projects, and contributing to open-source communities.
-
-- 🔭 Currently exploring **AI, Web Technologies & Creative Coding**
-- 💻 Skilled in **Python, JavaScript, Full-Stack Development**
-- 🎨 Creating unique visual effects and interactive experiences
-- 🌱 Always learning and pushing creative boundaries
-- 📫 Reach out: [LinkedIn](#) | [Email](#) | [Portfolio](#)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks**
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│       01001000 01001001 01000100 01000101 01001110         │
+│                                                              │
+│                    SHRAVAN MANIKANDAN                       │
+│                                                              │
+│              AI × SOFTWARE × CREATIVE TECHNOLOGY            │
+│                                                              │
+│       Building things that shouldn't be possible.            │
+│                                                              │
+│       [ PORTFOLIO ] [ LINKEDIN ] [ PROJECTS ]               │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  > SYSTEM.STATUS                                             │
+│                                                              │
+│  ● ONLINE                                                    │
+│  ├─ Frontend       ███████████████████░                     │
+│  ├─ AI / ML        ███████████████░░░░                     │
+│  ├─ 3D / Creative  ████████████░░░░░░                     │
+│  └─ Startup        █████████████████░░                     │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│                    ⚡ FEATURED PROJECTS                       │
+│                                                              │
+│   SIGN LANGUAGE AI       IDEACONNECT       WEBFORGE         │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│                 GITHUB ACTIVITY / STATS                      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
