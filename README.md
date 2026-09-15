@@ -3,13 +3,13 @@
 # 🚀 SHRAVAN MANIKANDAN ARANGAT
 
          ```
-         ╔══════════════════════════════════════════════════════════════════╗
+         ╔══════════════════════════════════════════════════════════════╗
          ║                  CREATIVE TECHNOLOGIST                         ║
          ║                  BUILDING THE FUTURE                           ║
-         ╚══════════════════════════════════════════════════════════════════╝
+         ╚══════════════════════════════════════════════════════════════╝
          ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Creative+Coder;AI+Enthusiast;Visual+Effects)](https://github.com/shravanmanikandan55)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Creative+Coder;AI+Enthusiast;Visual+Designer)](https://github.com/shravanmanikandan55)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=16&color=00D9FF&center=true&lines=Binary+%7C+Pixels+%7C+Performance" />
 
@@ -179,6 +179,27 @@
 🎯 Features: Real-time Detection | High Accuracy | Multi-user Support
 🚀 Purpose: Accessibility & Communication Bridge
 ```
+
+---
+
+### 🐍 **Snake Game** 🎮
+> Classic snake game with modern visuals and smooth gameplay mechanics
+
+```
+📊 Tech Stack: JavaScript | Canvas API | HTML5
+🎮 Features: Smooth Controls | Score Tracking | Responsive Design
+⚡ Performance: Lightweight & Fast
+🔥 Vibe: Retro Meets Modern
+```
+
+**Key Features:**
+- 🎯 Intuitive keyboard/touch controls
+- 📊 Real-time score and level tracking
+- 🎨 Modern visual design with smooth animations
+- 🔄 Collision detection & game state management
+- 📱 Fully responsive across devices
+
+[🔗 Play Game](#) • [📖 View Code](#) • [🚀 Live Demo](#)
 
 ---
 
