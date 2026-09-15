@@ -30,6 +30,143 @@
 
 ---
 
+## 🎮 PLAY SNAKE GAME
+
+<div align="center">
+
+### 🐍 Interactive Snake Game 🎮
+
+```html
+<canvas id="snakeGame" width="400" height="400" style="border:2px solid #00D9FF; background:#000; display:block; margin:20px auto; cursor:pointer;"></canvas>
+<div style="text-align:center; color:#00D9FF; font-family:monospace; margin-top:10px;">
+  <p>↑ ↓ ← → or WASD to move | Space to pause</p>
+  <p>Score: <span id="score">0</span></p>
+</div>
+
+<script>
+const canvas = document.getElementById('snakeGame');
+const ctx = canvas.getContext('2d');
+
+const gridSize = 20;
+const tileCount = canvas.width / gridSize;
+
+let snake = [{x: 10, y: 10}];
+let food = {x: 15, y: 15};
+let dx = 1;
+let dy = 0;
+let score = 0;
+let gameRunning = true;
+
+function drawRect(x, y, color) {
+  ctx.fillStyle = color;
+  ctx.fillRect(x * gridSize, y * gridSize, gridSize - 1, gridSize - 1);
+}
+
+function update() {
+  if (!gameRunning) return;
+
+  const head = {x: snake[0].x + dx, y: snake[0].y + dy};
+
+  // Wall collision
+  if (head.x < 0 || head.x >= tileCount || head.y < 0 || head.y >= tileCount) {
+    gameRunning = false;
+    alert('Game Over! Score: ' + score);
+    return;
+  }
+
+  // Self collision
+  for (let segment of snake) {
+    if (head.x === segment.x && head.y === segment.y) {
+      gameRunning = false;
+      alert('Game Over! Score: ' + score);
+      return;
+    }
+  }
+
+  snake.unshift(head);
+
+  // Food collision
+  if (head.x === food.x && head.y === food.y) {
+    score += 10;
+    document.getElementById('score').textContent = score;
+    food = {
+      x: Math.floor(Math.random() * tileCount),
+      y: Math.floor(Math.random() * tileCount)
+    };
+  } else {
+    snake.pop();
+  }
+
+  draw();
+}
+
+function draw() {
+  ctx.fillStyle = '#000';
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  ctx.strokeStyle = '#00D9FF';
+  ctx.lineWidth = 0.5;
+  for (let i = 0; i <= tileCount; i++) {
+    ctx.beginPath();
+    ctx.moveTo(i * gridSize, 0);
+    ctx.lineTo(i * gridSize, canvas.height);
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(0, i * gridSize);
+    ctx.lineTo(canvas.width, i * gridSize);
+    ctx.stroke();
+  }
+
+  // Draw snake
+  for (let i = 0; i < snake.length; i++) {
+    if (i === 0) {
+      drawRect(snake[i].x, snake[i].y, '#00FF00');
+    } else {
+      drawRect(snake[i].x, snake[i].y, '#00D9FF');
+    }
+  }
+
+  // Draw food
+  drawRect(food.x, food.y, '#FF0066');
+}
+
+document.addEventListener('keydown', (e) => {
+  switch(e.key) {
+    case 'ArrowUp':
+    case 'w':
+    case 'W':
+      if (dy === 0) { dx = 0; dy = -1; }
+      break;
+    case 'ArrowDown':
+    case 's':
+    case 'S':
+      if (dy === 0) { dx = 0; dy = 1; }
+      break;
+    case 'ArrowLeft':
+    case 'a':
+    case 'A':
+      if (dx === 0) { dx = -1; dy = 0; }
+      break;
+    case 'ArrowRight':
+    case 'd':
+    case 'D':
+      if (dx === 0) { dx = 1; dy = 0; }
+      break;
+    case ' ':
+      gameRunning = !gameRunning;
+      break;
+  }
+});
+
+setInterval(update, 100);
+draw();
+</script>
+```
+
+</div>
+
+---
+
 ## 💻 Tech Stack:
 
 <div align="center">
@@ -179,27 +316,6 @@
 🎯 Features: Real-time Detection | High Accuracy | Multi-user Support
 🚀 Purpose: Accessibility & Communication Bridge
 ```
-
----
-
-### 🐍 **Snake Game** 🎮
-> Classic snake game with modern visuals and smooth gameplay mechanics
-
-```
-📊 Tech Stack: JavaScript | Canvas API | HTML5
-🎮 Features: Smooth Controls | Score Tracking | Responsive Design
-⚡ Performance: Lightweight & Fast
-🔥 Vibe: Retro Meets Modern
-```
-
-**Key Features:**
-- 🎯 Intuitive keyboard/touch controls
-- 📊 Real-time score and level tracking
-- 🎨 Modern visual design with smooth animations
-- 🔄 Collision detection & game state management
-- 📱 Fully responsive across devices
-
-[🔗 Play Game](#) • [📖 View Code](#) • [🚀 Live Demo](#)
 
 ---
 
