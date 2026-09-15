@@ -3,13 +3,13 @@
 # 🚀 SHRAVAN MANIKANDAN ARANGAT
 
          ```
-         ╔════════════════════════════════════════════════════════════════╗
+         ╔══════════════════════════════════════════════════════════════════╗
          ║                  CREATIVE TECHNOLOGIST                         ║
          ║                  BUILDING THE FUTURE                           ║
-         ╚════════════════════════════════════════════════════════════════╝
+         ╚══════════════════════════════════════════════════════════════════╝
          ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Creative+Coder;AI+Enthusiast;Visual+Artist;Always+Learning;Code+%2B+Art+%3D+Magic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Creative+Coder;AI+Enthusiast;Visual+Effects)](https://github.com/shravanmanikandan55)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=16&color=00D9FF&center=true&lines=Binary+%7C+Pixels+%7C+Performance" />
 
@@ -67,6 +67,44 @@ class Shravan:
 
 ---
 
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+### ⚡ STATS ⚡
+
+**Shravan Manikandan's GitHub Stats**
+
+| Metric | Details |
+|--------|---------|
+| ⭐ **Total Stars Earned** | Tracking contributions across all repos |
+| 📅 **Total Commits** | Building every single day |
+| 🔀 **Pull Requests** | Contributing to open source |
+| 📋 **Issues Created** | Problem solving & tracking |
+| 🎯 **Repositories** | Multiple projects in progress |
+
+---
+
+### 📈 GitHub Analytics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravanmanikandan55&theme=tokyonight&hide_border=true&show_icons=true&title_color=00D9FF&icon_color=00D9FF&count_private=true)](https://github.com/shravanmanikandan55)
+
+---
+
+### 🔥 Contribution Streak & Activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shravanmanikandan55&theme=tokyonight&hide_border=true&stroke=00D9FF)](https://github.com/shravanmanikandan55)
+
+---
+
+### 💻 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanmanikandan55&theme=tokyonight&hide_border=true&layout=compact&title_color=00D9FF&count_private=true)](https://github.com/shravanmanikandan55)
+
+</div>
+
+---
+
 ## 🎬 FLAGSHIP PROJECTS
 
 ### 🖼️ **Binary Avatar Generator** ✨
@@ -89,16 +127,6 @@ class Shravan:
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravanmanikandan55&theme=tokyonight&hide_border=true&show_icons=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/shravanmanikandan55)
-
-</div>
-
----
-
 ## 🌟 CURRENT MISSIONS
 
 ```
@@ -118,9 +146,9 @@ class Shravan:
 
 **Reach out and let's create something amazing together!**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/shravanmanikandan55)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/shravanmanikandan55)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contact@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shravanmanikandan55@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://portfolio.com)
 
@@ -145,6 +173,6 @@ Combine them and create magic." ✨
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
-**Last Updated:** 2024 | Built with ❤️ and Code ✨
+**Last Updated:** 2025 | Built with ❤️ and Code ✨
 
 </div>
