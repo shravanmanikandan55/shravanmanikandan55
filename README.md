@@ -139,13 +139,13 @@
 
 ---
 
-## 🎮 PACMAN CONTRIBUTION GRAPH
+## 🎮 CONTRIBUTION ACTIVITY GRAPH
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shravanmanikandan55/shravanmanikandan55/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shravanmanikandan55/shravanmanikandan55/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shravanmanikandan55/shravanmanikandan55/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<div align="center">
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=shravanmanikandan55&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/shravanmanikandan55)
+
+</div>
 
 ---
 
