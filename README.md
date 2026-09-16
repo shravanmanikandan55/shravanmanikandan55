@@ -460,29 +460,6 @@ These are generated from your actual GitHub account rather than being manually i
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
-
----
-
-# `> DEVELOPER_MODE`
-
-```python
-class Shravan:
-
-    def __init__(self):
-        self.mode = "BUILD"
-        self.curiosity = "UNLIMITED"
-        self.favorite_problem = "THE ONE THAT HASN'T BEEN SOLVED"
-
-    def create(self, idea):
-        prototype = build(idea)
-        test(prototype)
-        improve(prototype)
-        return prototype
-
-    def philosophy(self):
-        return "Build first. Learn while building. Repeat."
-```
-
 ---
 
 # `> CONNECT`
