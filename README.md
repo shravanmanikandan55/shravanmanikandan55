@@ -132,6 +132,424 @@ AI-powered real-time sign language to text conversion.
 ## 💡 Philosophy
 
 > "Code is poetry. Art is expression. Combine them and create magic." ✨
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00D9FF,50:7B2CFF,100:FF00C8&text=SHRAVAN%20MANIKANDAN%20ARANGAT&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=CREATIVE%20TECHNOLOGIST%20%7C%20AI%20%7C%20FULL%20STACK%20%7C%20COMPUTER%20VISION&descAlignY=58&descSize=15&animation=twinkling"/>
+
+<a href="https://github.com/shravanmanikandan55">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%7C+FULL+STACK+%7C+COMPUTER+VISION;BUILDING+IDEAS+INTO+WORKING+SYSTEMS;SIGN+LANGUAGE+TRANSLATION+%F0%9F%A4%9F;BINARY+%7C+PIXELS+%7C+CODE+%7C+AI;WELCOME+TO+MY+DIGITAL+LAB+%F0%9F%96%A5%EF%B8%8F" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=shravanmanikandan55&style=for-the-badge&color=00D9FF&label=PROFILE+VISITORS"/>
+<img src="https://img.shields.io/github/followers/shravanmanikandan55?style=for-the-badge&color=7B2CFF&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/shravanmanikandan55?style=for-the-badge&color=FF00C8&label=TOTAL+STARS"/>
+
+</div>
+
+---
+
+# `> SYSTEM.INIT()`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                  SHRAVAN'S DIGITAL LAB                       ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ROLE       :: CREATIVE TECHNOLOGIST                         ║
+║  MODE       :: BUILD                                          ║
+║  FOCUS      :: AI / WEB / CV / 3D                            ║
+║  STATUS     :: ONLINE                                         ║
+║                                                              ║
+║  CURRENT OBJECTIVE                                            ║
+║  └─ Turn crazy ideas into working prototypes                  ║
+║                                                              ║
+║  PRIMARY SYSTEM                                               ║
+║  └─ Sign Language Translation                                 ║
+║                                                              ║
+║  SECONDARY SYSTEM                                             ║
+║  └─ Cyberpunk Binary Visual Engine                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `> ABOUT_ME.exe`
+
+```yaml
+name: Shravan Manikandan Arangat
+
+identity:
+  - Creative Technologist
+  - Full Stack Developer
+  - AI Enthusiast
+  - Creative Coder
+  - Visual Designer
+
+building:
+  - AI-powered software
+  - Sign Language Translation System
+  - Full-stack applications
+  - Computer Vision systems
+  - Experimental visual tools
+
+learning:
+  - Artificial Intelligence
+  - Computer Vision
+  - Full Stack Development
+  - 3D Technologies
+
+mindset:
+  - Build
+  - Experiment
+  - Break
+  - Learn
+  - Rebuild
+
+fun_fact:
+  "I enjoy turning crazy ideas into working prototypes."
+```
+
+---
+
+# `> CURRENT_MISSION`
+
+<div align="center">
+
+### 🤟 SIGN LANGUAGE TRANSLATION SYSTEM
+
+**Camera → Sign Recognition → Text → Voice / Target Sign Language**
+
+```text
+        ┌───────────────┐
+        │     CAMERA    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │ SIGN DETECTION│
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │ AI RECOGNITION│
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │ TRANSLATION   │
+        └───────┬───────┘
+                ↓
+      ┌─────────┴─────────┐
+      ↓                   ↓
+   TEXT OUTPUT        VOICE OUTPUT
+                          +
+                  3D SIGN AVATAR
+```
+
+**Goal:** Build a real-time communication bridge between different sign languages.
+
+---
+
+# `> PROJECT_01`
+
+## 🖥️ Binary Avatar Generator
+
+> **Turn photographs into cyberpunk binary artwork.**
+
+```text
+INPUT IMAGE
+     │
+     ▼
+┌───────────────┐
+│ IMAGE ANALYSIS│
+└───────┬───────┘
+        ▼
+┌───────────────┐
+│ BRIGHTNESS MAP│
+└───────┬───────┘
+        ▼
+┌───────────────┐
+│ 0 / 1 ENGINE  │
+└───────┬───────┘
+        ▼
+┌───────────────┐
+│ GLITCH ENGINE │
+└───────┬───────┘
+        ▼
+ CYBERPUNK AVATAR
+```
+
+**Stack**
+
+`Python` `OpenCV` `PIL` `NumPy`
+
+**Features**
+
+* Binary image generation
+* Glitch distortion
+* Scanline effects
+* Dynamic brightness mapping
+* Cyberpunk visual effects
+* Real-time processing experiments
+
+---
+
+# `> PROJECT_02`
+
+## 🤟 Sign Language Translation
+
+**AI-powered real-time sign recognition and translation.**
+
+```text
+ASL / ISL
+   ↓
+WEBCAM
+   ↓
+AI VISION
+   ↓
+SIGN RECOGNITION
+   ↓
+TRANSLATION
+   ↓
+TEXT / VOICE / SIGN AVATAR
+```
+
+**Core technologies**
+
+`Python` `TensorFlow` `OpenCV` `Computer Vision` `Machine Learning`
+
+---
+
+# `> TECH_CORE`
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=java,php,python,c,dart,powershell,latex" />
+
+### WEB
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,tailwind,typescript" />
+
+### AI / COMPUTER VISION
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+### DATABASES
+
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,supabase,sqlite,postgres" />
+
+### CLOUD
+
+<img src="https://skillicons.dev/icons?i=cloudflare,vercel,aws,gcp,netlify,oracle" />
+
+### CREATIVE TECHNOLOGY
+
+<img src="https://skillicons.dev/icons?i=blender,figma,illustrator,unity,unreal" />
+
+### DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+# `> GITHUB_TELEMETRY`
+
+### ⚡ LIVE ACCOUNT DATA
+
+These cards are generated from **your GitHub username**, rather than manually typed numbers.
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shravanmanikandan55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanmanikandan55&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=shravanmanikandan55&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# `> CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanmanikandan55&bg_color=0D1117&color=00D9FF&line=7B2CFF&point=FF00C8&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# `> TROPHY_ROOM`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shravanmanikandan55&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+# `> LIVE_REPOSITORIES`
+
+These are generated from your actual GitHub account rather than being manually invented.
+
+<div align="center">
+
+<a href="https://github.com/shravanmanikandan55/Electrical-regenerating-train">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanmanikandan55&repo=Electrical-regenerating-train&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/shravanmanikandan55/SCRIPT-READER">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanmanikandan55&repo=SCRIPT-READER&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br>
+
+<a href="https://github.com/shravanmanikandan55/campus-hub-mobile-apps-92">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanmanikandan55&repo=campus-hub-mobile-apps-92&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/shravanmanikandan55/IDEA-CONNECT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shravanmanikandan55&repo=IDEA-CONNECT&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# `> ACTIVITY`
+
+<div align="center">
+
+[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=shravanmanikandan55\&show_icons=true\&hide=issues\&theme=tokyonight\&hide_border=true)](https://github.com/shravanmanikandan55)
+
+</div>
+
+---
+
+# `> CONTRIBUTION_GAME`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shravanmanikandan55/shravanmanikandan55/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shravanmanikandan55/shravanmanikandan55/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/shravanmanikandan55/shravanmanikandan55/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+</div>
+
+---
+
+# `> CURRENT_QUESTS`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     ACTIVE QUESTS                            │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  [01] 🤖 AI SOFTWARE                                         │
+│  [02] 🤟 SIGN LANGUAGE TRANSLATION                           │
+│  [03] 👁️ COMPUTER VISION                                     │
+│  [04] 🎨 GENERATIVE / VISUAL EFFECTS                         │
+│  [05] 🌐 FULL STACK APPLICATIONS                             │
+│  [06] 🧊 3D / BLENDER                                        │
+│  [07] 🚀 PRODUCT PROTOTYPES                                  │
+│  [08] 🌎 OPEN SOURCE                                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `> DEVELOPER_MODE`
+
+```python
+class Shravan:
+
+    def __init__(self):
+        self.mode = "BUILD"
+        self.curiosity = "UNLIMITED"
+        self.favorite_problem = "THE ONE THAT HASN'T BEEN SOLVED"
+
+    def create(self, idea):
+        prototype = build(idea)
+        test(prototype)
+        improve(prototype)
+        return prototype
+
+    def philosophy(self):
+        return "Build first. Learn while building. Repeat."
+```
+
+---
+
+# `> CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/shravanmanikandan55">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shravanmanikandan55">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shravanmanikandan55@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> PHILOSOPHY`
+
+```text
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║   CODE IS POETRY.                                  ║
+║   ART IS EXPRESSION.                               ║
+║                                                    ║
+║   COMBINE THEM.                                    ║
+║   CREATE SOMETHING THAT DIDN'T EXIST BEFORE.       ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE;BUILDING...;EXPERIMENTING...;LEARNING...;CREATING...;REPEAT." />
+
+<br><br>
+
+**🟢 STATUS: ONLINE**
+
+**⚡ MODE: BUILDING**
+
+**☕ POWERED BY: CODE + COFFEE + CURIOSITY**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF00C8,50:7B2CFF,100:00D9FF"/>
+
+</div>
 
 ---
 
