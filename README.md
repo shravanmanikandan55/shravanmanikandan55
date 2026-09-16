@@ -90,7 +90,7 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.shion.dev/api?shravanmanikandan55=shravanmanikandan55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.shion.dev/api?USERNAME=shravanmanikandan55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Contribution Streak](https://streak-stats.demolab.com/?user=shravanmanikandan55&theme=dark&hide_border=false)
 
