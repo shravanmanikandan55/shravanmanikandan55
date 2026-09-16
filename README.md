@@ -1,4 +1,19 @@
 # 🚀 SHRAVAN MANIKANDAN ARANGAT
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00D9FF,50:7B2CFF,100:FF00C8&text=SHRAVAN%20MANIKANDAN%20ARANGAT&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=CREATIVE%20TECHNOLOGIST%20%7C%20AI%20%7C%20FULL%20STACK%20%7C%20COMPUTER%20VISION&descAlignY=58&descSize=15&animation=twinkling"/>
+
+<a href="https://github.com/shravanmanikandan55">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%7C+FULL+STACK+%7C+COMPUTER+VISION;BUILDING+IDEAS+INTO+WORKING+SYSTEMS;SIGN+LANGUAGE+TRANSLATION+%F0%9F%A4%9F;BINARY+%7C+PIXELS+%7C+CODE+%7C+AI;WELCOME+TO+MY+DIGITAL+LAB+%F0%9F%96%A5%EF%B8%8F" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=shravanmanikandan55&style=for-the-badge&color=00D9FF&label=PROFILE+VISITORS"/>
+<img src="https://img.shields.io/github/followers/shravanmanikandan55?style=for-the-badge&color=7B2CFF&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/shravanmanikandan55?style=for-the-badge&color=FF00C8&label=TOTAL+STARS"/>
+
+</div>
+
+---
 
 ```
 ╔══════════════════════════════════════════════════════════════
@@ -134,21 +149,7 @@ AI-powered real-time sign language to text conversion.
 > "Code is poetry. Art is expression. Combine them and create magic." ✨
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00D9FF,50:7B2CFF,100:FF00C8&text=SHRAVAN%20MANIKANDAN%20ARANGAT&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=CREATIVE%20TECHNOLOGIST%20%7C%20AI%20%7C%20FULL%20STACK%20%7C%20COMPUTER%20VISION&descAlignY=58&descSize=15&animation=twinkling"/>
 
-<a href="https://github.com/shravanmanikandan55">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%7C+FULL+STACK+%7C+COMPUTER+VISION;BUILDING+IDEAS+INTO+WORKING+SYSTEMS;SIGN+LANGUAGE+TRANSLATION+%F0%9F%A4%9F;BINARY+%7C+PIXELS+%7C+CODE+%7C+AI;WELCOME+TO+MY+DIGITAL+LAB+%F0%9F%96%A5%EF%B8%8F" />
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=shravanmanikandan55&style=for-the-badge&color=00D9FF&label=PROFILE+VISITORS"/>
-<img src="https://img.shields.io/github/followers/shravanmanikandan55?style=for-the-badge&color=7B2CFF&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/shravanmanikandan55?style=for-the-badge&color=FF00C8&label=TOTAL+STARS"/>
-
-</div>
-
----
 
 # `> SYSTEM.INIT()`
 
