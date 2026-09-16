@@ -98,34 +98,6 @@
 
 ---
 
-## 🎬 Flagship Projects
-
-### 🖼️ Binary Avatar Generator
-Transform any photo into cyberpunk binary art with glitch effects.
-
-- Tech: Python, OpenCV, PIL, NumPy
-- Features: Glitch Effects, Scanlines, Dynamic Coloring
-
-### 🤟 Sign Language Translation System
-AI-powered real-time sign language to text conversion.
-
-- Tech: Python, TensorFlow, OpenCV
-- Features: Real-time detection, multi-user support
-
-(Links to project pages and demos can be added here.)
-
----
-
-## 🌟 Current Missions
-
-- Building AI-powered software solutions
-- Developing Sign Language Translation System
-- Building Next-Gen Visual Effects Tools
-- Full-Stack Web Application Development
-- Contributing to Open-Source Community
-
----
-
 ## 🚀 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/shravanmanikandan55)
