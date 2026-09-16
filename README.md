@@ -241,11 +241,7 @@
 
 ---
 <br>
-
-<img src="https://komarev.com/ghpvc/?shravanmanikandan55=shravanmanikandan55&style=for-the-badge&color=00D9FF&label=PROFILE+VISITORS"/>
 <img src="https://img.shields.io/github/followers/shravanmanikandan55?style=for-the-badge&color=7B2CFF&label=FOLLOWERS"/>
 <img src="https://img.shields.io/github/stars/shravanmanikandan55?style=for-the-badge&color=FF00C8&label=TOTAL+STARS"/>
 
 </div>
-
-*README cleaned and formatted — removed broken HTML and stray code blocks. If you'd like a different layout (more graphics, full badge list, or restore specific sections), tell me which parts to include and I'll refine it.*
