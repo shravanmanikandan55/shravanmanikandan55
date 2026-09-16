@@ -87,7 +87,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 ---
+## My Contribution Graph
 
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[shravanmanikandan55]/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[shravanmanikandan55]/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[shravanmanikandan55]/output/[game-name]-contribution-graph.svg">
+</picture>
 ## 📊 GitHub Statistics
 
 ![GitHub stats](https://github-readme-stats.shion.dev/api?USERNAME=shravanmanikandan55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
