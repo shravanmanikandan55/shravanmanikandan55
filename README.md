@@ -90,11 +90,11 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.shion.dev/api?username=shravanmanikandan55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.shion.dev/api?shravanmanikandan55=shravanmanikandan55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Contribution Streak](https://streak-stats.demolab.com/?user=shravanmanikandan55&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=shravanmanikandan55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?shravanmanikandan55=shravanmanikandan55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -151,7 +151,14 @@
 
 # `> CONTRIBUTION_GAME`
 
+## My Contribution Graph
 
+<!-- [pacman] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[shravanmanikandan55]/[shravanmanikandan55]/output/[pacman]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[shravanmanikandan55]/[shravanmanikandan55]/output/[pacman]-contribution-graph.svg">
+    <img alt="[pacman] contribution graph" src="https://raw.githubusercontent.com/[shravanmanikandan55]/[shravanmanikandan55]/output/[pacman]-contribution-graph.svg">
+</picture>
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=500&color=7B2CFF&center=true&vCenter=true&width=850&lines=%3E%3E+Scanning+for+new+ideas...;%3E%3E+Compiling+imagination...;%3E%3E+Deploying+prototype...;%3E%3E+Learning+from+failure...;%3E%3E+Building+again...;%3E%3E+MISSION+STATUS%3A+CONTINUOUS" />
@@ -222,7 +229,7 @@
 ---
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=shravanmanikandan55&style=for-the-badge&color=00D9FF&label=PROFILE+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?shravanmanikandan55=shravanmanikandan55&style=for-the-badge&color=00D9FF&label=PROFILE+VISITORS"/>
 <img src="https://img.shields.io/github/followers/shravanmanikandan55?style=for-the-badge&color=7B2CFF&label=FOLLOWERS"/>
 <img src="https://img.shields.io/github/stars/shravanmanikandan55?style=for-the-badge&color=FF00C8&label=TOTAL+STARS"/>
 
