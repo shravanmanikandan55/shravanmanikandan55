@@ -151,14 +151,27 @@
 
 # `> CONTRIBUTION_GAME`
 
-## My Contribution Graph
+<div align="center">
 
-<!-- [pacman] -->
+<!-- PAC-MAN -->
+
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[shravanmanikandan55]/[shravanmanikandan55]/output/[pacman]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[shravanmanikandan55]/[shravanmanikandan55]/output/[pacman]-contribution-graph.svg">
-    <img alt="[pacman] contribution graph" src="https://raw.githubusercontent.com/[shravanmanikandan55]/[shravanmanikandan55]/output/[pacman]-contribution-graph.svg">
+    <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/shravanmanikandan55/shravanmanikandan55/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/shravanmanikandan55/shravanmanikandan55/output/pacman-contribution-graph.svg"
+    />
+    <img
+        alt="Pac-Man contribution graph"
+        src="https://raw.githubusercontent.com/shravanmanikandan55/shravanmanikandan55/output/pacman-contribution-graph.svg"
+    />
 </picture>
+
+</div>
+
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=500&color=7B2CFF&center=true&vCenter=true&width=850&lines=%3E%3E+Scanning+for+new+ideas...;%3E%3E+Compiling+imagination...;%3E%3E+Deploying+prototype...;%3E%3E+Learning+from+failure...;%3E%3E+Building+again...;%3E%3E+MISSION+STATUS%3A+CONTINUOUS" />
